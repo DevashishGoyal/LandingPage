@@ -1313,6 +1313,10 @@ section {
   font-size: 38px !important;
 }
 
+.bolded-sections-hiw{
+  
+}
+
 .img-fluid-features {
   height: 100%;
   max-height: 20em;
@@ -1344,6 +1348,11 @@ section {
 
 .mt-3 {
   margin-top: 0.25% !important;
+}
+
+.hiw-text{
+  margin: auto;
+  padding-top: 0 !important;
 }
 
 @media (max-width: 988px) {
